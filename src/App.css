@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Guides&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Guides&family=Science+Gothic:wght@100..900&display=swap');
+
 .field{
   width: 300px;
   padding-bottom: 20px;
@@ -14,5 +17,16 @@
 
 body{
   padding: 10px;
-  background-color: darkmagenta;
+  background-color: teal;
+  /* font-family: "Playwrite NZ Guides", cursive;
+  font-weight: 400;
+  font-size: large; */
+  font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: large;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "CTRS" 0;
 }
