@@ -35,6 +35,7 @@ function App() {
   };
 
   return (
+    
     <div className='header field'>
       Jordan's VAT CALCULATOR
       <div className='colour-border'>
