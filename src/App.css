@@ -1,10 +1,10 @@
 .field{
-  width: 300px;
+  width: 40%;
   padding-bottom: 20px;
 }
 
 .colour-border{
-  border: 5px solid rgb(232, 137, 228);
+  border: 10px dashed rgb(232, 137, 228);
   padding: 10px;
 }
 
